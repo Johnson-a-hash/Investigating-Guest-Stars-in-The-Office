@@ -10,6 +10,7 @@ understand how the popularity and quality of the series varied over time. To do 
 will use the following dataset: datasets/office_episodes.csv, which was downloaded
 from Kaggle https://www.kaggle.com/nehaprabhavalkar/the-office-dataset?select=the_office_series.csv
 
+This project forms part of the cirrculum of Data Insight's Data Science Program on Data Camp
 
 
 Project task
