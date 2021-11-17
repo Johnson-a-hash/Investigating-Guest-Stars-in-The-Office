@@ -1,7 +1,7 @@
 # Investigating-Guest-Stars-in-The-Office
 Apply the foundational skills in Introduction to Python and Intermediate Python courses to manipulate and visualize movie and TV data.
 
-In these project, I’ll apply the skills I have learnt in the Introduction to Python and Intermediate Python to solve a real-world data science problem.
+In these projects, I’ll apply the skills I havelearnedt in the Introduction to Python and Intermediate Python to solve a real-world data science problem.
 The Office is an American Mockumentary sitcom television series that depicts the
 everyday lives of office employees in the Scranton, Pennsylvania, branch of the fictional
 Dunder Mifflin Paper Company.
@@ -10,10 +10,10 @@ understand how the popularity and quality of the series varied over time. To do 
 will use the following dataset: datasets/office_episodes.csv, which was downloaded
 from Kaggle https://www.kaggle.com/nehaprabhavalkar/the-office-dataset?select=the_office_series.csv
 
-This project forms part of the cirrculum of Data Insight's Data Science Program on Data Camp
+This project forms part of thcurriculumum of Data Insight's Data Science Program on Data Camp
 
 
-Project task
+Project task:
 1. Create a matplotlib scatter plot of the data that contains the following attributes:
 
 Each episode's episode number plotted along the x-axis
@@ -32,4 +32,4 @@ A title, reading "Popularity, Quality, and Guest Appearances on the Office"
 An x-axis label reading "Episode Number"
 A y-axis label reading "Viewership (Millions)"
 
-2. Provide the name of one of the guest stars (hint, there were multiple!) who was in the most watched Office episode.
+2. Provide the name of one of the guest stars (hint, there were multiple!) who was in tmost-watchedhed Office episode.
